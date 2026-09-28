@@ -36,6 +36,7 @@ medicare-hospital-management/
 ├── package.json
 └── postman_collection.json
 
+
 ## How to Run
 
 ### 1. Open the project

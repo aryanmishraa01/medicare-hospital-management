@@ -35,25 +35,3 @@ medicare-hospital-management/
 ├── database.sql
 ├── package.json
 └── postman_collection.json
-
-
-## How to Run
-
-### 1. Open the project
-
-Open the `medicare-hospital-management` folder in VS Code.
-
-### 2. Start the Backend
-
-In VS Code, click:
-
-**Terminal → New Terminal**
-
-A terminal will open at the bottom.
-
-Run these commands one by one:
-
-```bash
-cd backend
-npm install
-npm start

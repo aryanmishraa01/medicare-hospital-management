@@ -1,0 +1,28 @@
+{
+  "name": "medicare-backend",
+  "version": "1.0.0",
+  "description": "Backend REST API for MediCare Hospital Management System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "hospital-management",
+    "express",
+    "mysql",
+    "nodejs",
+    "rest-api"
+  ],
+  "author": "MediCare Team",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mysql2": "^3.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
